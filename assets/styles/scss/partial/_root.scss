@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    outline: none;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    background: $primaryColor;
+    overflow-x: hidden;
+    grid-template-areas: "header ""main";
+    grid-auto-rows: auto;
+    font-family: sans-serif;
+    color: $primaryColor;
+    .arrow{
+        position: absolute;
+        top: 1rem;
+        left: 2rem;
+        color: blanchedalmond;
+    }
+}

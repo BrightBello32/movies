@@ -1,0 +1,58 @@
+[
+    {
+        "img": "/assets/images/black_suit_spiderman_hd_spiderman.jpg",
+        "title": "Spiderman black suit",
+        "ReleaseDate": "2020",
+        "Author": "Tom Holland",
+        "Ratings": "5",
+        "duration": "2hrs 30mins"
+    },
+    {
+        "img": "assets/images/blue_red_suit_spiderman_on_glass_door_buildings_background_hd_spiderman.jpg",
+        "title": "Spiderman red suit",
+        "ReleaseDate": "2021",
+        "Author": "Tom Holland",
+        "Ratings": "4",
+        "duration": "2hrs 45mins"
+    },
+    {
+        "img": "assets/images/angela.jpg",
+        "title": "Little Angela",
+        "ReleaseDate": "2018",
+        "Author": "Sofiat",
+        "Ratings": "3",
+        "duration": "2hrs"
+    },
+    {
+        "img": "assets/images/event.png",
+        "title": "The Event",
+        "ReleaseDate": "2019",
+        "Author": "Ronan",
+        "Ratings": "4",
+        "duration": "1hr 30mins"
+    },
+    {
+        "img": "assets/images/tourism.jpg",
+        "title": "The Tourism",
+        "ReleaseDate": "2021",
+        "Author": "Natalie",
+        "Ratings": "5",
+        "duration": "2hrs"
+    },
+    {
+        "img": "assets/images/vision.jpg",
+        "title": "Vision",
+        "ReleaseDate": "2017",
+        "Author": "Alex Benjamin",
+        "Ratings": "4",
+        "duration": "2hrs 5mins"
+    },
+    {
+        "img": "assets/images/monk.jpg",
+        "title": "The Monk",
+        "ReleaseDate": "2022",
+        "Author": "Eric James",
+        "Ratings": "4",
+        "duration": "3hrs"
+    }
+]
