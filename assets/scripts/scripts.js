@@ -1,6 +1,6 @@
 import { about } from "./about.js"
 
-$.get("/assets/scripts/movies.json", null, null, "json").done(function (movies) {
+$.get("./movies.json", null, null, "json").done(function (movies) {
     // console.log(movies);
 
     let header = $(`
